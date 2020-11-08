@@ -1,7 +1,14 @@
+import React from "react";
 import "./App.css";
+import Login from "./Login";
 
 function App() {
-  return <div className="App">My Application</div>;
+  return (
+    <div className="App">
+      My Application
+      <Login />
+    </div>
+  );
 }
 
 export default App;
