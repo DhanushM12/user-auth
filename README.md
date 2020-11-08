@@ -1,3 +1,35 @@
+## Project Folder Structure
+
+```
+react-redux-app
+├─ .git
+├─ .gitignore
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  └─ robots.txt
+├─ README.md
+└─ src
+   ├─ App.css
+   ├─ App.js
+   ├─ firebase.js
+   ├─ Header.css
+   ├─ Header.js
+   ├─ Home.js
+   ├─ index.css
+   ├─ index.js
+   ├─ Login.css
+   └─ Login.js
+
+```
+
+## React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
